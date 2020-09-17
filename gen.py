@@ -10,7 +10,7 @@ while times <= 1000:
         y = list(dict.fromkeys(y))
         num = num + 1
         #print("\n", num)
-        #print(y)
+        #print(y) #Whole list
         """if len(y) < 25:
             print("-")
         elif len(y) < 50:
