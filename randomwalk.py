@@ -18,7 +18,7 @@ by:
 
 Home: x:0 y:0
 Player: x:6 y:-1
-(Optimal path takes 7 decision)
+(Optimal path takes 7 decisions)
 """
 
 x = 6
