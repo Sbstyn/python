@@ -1,0 +1,884 @@
+A Coruna
+Aachen
+Aarhus
+Abbeville
+Aberdeen
+Adelboden
+Agde
+Agen
+Agios Nikolaos
+Agrigento
+Agropoli
+Aigues-Mortes
+Aix-en-Provence
+Aix-les-Bains
+Ajaccio
+Alanya
+Albacete
+Albenga
+Albi
+Albufeira
+Alcudia
+Alessandria
+Alesund
+Algeciras
+Alghero
+Alicante
+Alkmaar
+Alpbach
+Alpe d'Huez
+Alta Badia
+Altea
+Amalfi
+Amersfoort
+Amiens
+Amsterdam
+Ancona
+Andalo
+Andermatt
+Andria
+Angers
+Ankara
+Annecy
+Antalya
+Antibes
+Antwerp
+Anzio
+Aosta
+Apeldoorn
+Arcachon
+Arenzano
+Arezzo
+Argostoli
+Arlberg
+Arles
+Armagh
+Arnhem
+Arosa
+Arras
+Arrecife
+Arta
+Ascoli Piceno
+Ascona
+Asti
+Athens
+Athlone
+Augsburg
+Auxerre
+Aveiro
+Avellino
+Avignon
+Avoriaz
+Axamer Lizum
+Ayia Napa
+
+Bad Gastein
+Bad Hofgastein
+Baden
+Baiona
+Bandol
+Bar
+Barcelona
+Bari
+Barletta
+Basel
+Bastia
+Bath
+Bayonne
+Beaulieu-sur-Mer
+Belfast
+Belfort
+Belgrade
+Bellinzona
+Belluno
+Benalmadena
+Benevento
+Benicassim
+Benidorm
+Bergamo
+Bergen
+Bergerac
+Berlin
+Bern
+Besancon
+Beziers
+Biarritz
+Biel/Bienne
+Bielefeld
+Biella
+Bilbao
+Birmingham
+Blanes
+Bled
+Blois
+Bochum
+Bodrum
+Bologna
+Bolzano
+Bonifacio
+Bonn
+Bordeaux
+Bordighera
+Bormio
+Boulogne-sur-Mer
+Bourges
+Bradford
+Braga
+Bratislava
+Braunschweig
+Breda
+Bregenz
+Brela
+Bremen
+Bremerhaven
+Brescia
+Brest
+Brighton
+Brindisi
+Bristol
+Brixen
+Brixental
+Brno
+Bruges
+Brussels
+Bucharest
+Budapest
+Budva
+Burgas
+
+Cadiz
+Caen
+Cagliari
+Cagnes-sur-Mer
+Cala Bona
+Cala d'Or
+Cala Millor
+Cala Ratjada
+Calais
+Calella
+Calp
+Caltanissetta
+Calvi
+Cambridge
+Cambrils
+Campobasso
+Can Picafort
+Canazei
+Cannes
+Canterbury
+Canyamel
+Capdepera
+Carbonia
+Carcassonne
+Cardiff
+Carlisle
+Carpi
+Carrara
+Cartagena
+Caserta
+Cassis
+Castelrotto
+Catania
+Catanzaro
+Cervinia
+Cesena
+Cesky Krumlov
+Cesme
+Chamonix
+Chania
+Charleroi
+Chartres
+Chelmsford
+Chemnitz
+Cherbourg
+Chester
+Chiavari
+Chichester
+Chieti
+Chioggia
+Chios
+Chur
+Ciutadella de Menorca
+Civitavecchia
+Clermont-Ferrand
+Coimbra
+Collioure
+Colmar
+Cologne
+Como
+Conil de la Frontera
+Copenhagen
+Cordoba
+Corfu
+Corinth
+Cork
+Corralejo
+Cortina d'Ampezzo
+Cosenza
+Costa Adeje
+Courchevel
+Courmayeur
+Coventry
+Crans-Montana
+Cremona
+Crotone
+Cuneo
+
+Dachstein-West
+Darmstadt
+Daugavpils
+Davos
+Deauville
+Delft
+Den Bosch
+Denia
+Derby
+Derry
+Didim
+Dieppe
+Dijon
+Dolomiti Superski
+Dordrecht
+Dorfgastein
+Dortmund
+Dresden
+Dublin
+Dubrovnik
+Duisburg
+Dundalk
+Dundee
+Dunkirk
+Durham
+Dusseldorf
+
+Eastbourne
+Edinburgh
+Eindhoven
+Elche
+Ellmau
+Elm
+Empuriabrava
+Engelberg
+Enna
+Enschede
+Erfurt
+Erlangen
+Esbjerg
+Essen
+Estepona
+Exeter
+Eze
+
+Faenza
+Famagusta
+Fano
+Faro
+Fermo
+Ferrara
+Fethiye
+Fieberbrunn
+Filzmoos
+Finale Ligure
+Fiumicino
+Flaine
+Florence
+Foggia
+Folgarida
+Forli
+Forte dei Marmi
+Frankfurt am Main
+Freiburg
+Fribourg
+Frosinone
+Fuengirola
+Funchal
+Galtur
+Galway
+Gdansk
+Gdynia
+Gelsenkirchen
+Geneva
+Genoa
+Ghent
+Gijon
+Girona
+Glasgow
+Gloucester
+Gorizia
+Gothenburg
+Gottingen
+Gouda
+Granada
+Granville
+Grasse
+Graz
+Grenoble
+Grindelwald
+Groningen
+Grossarl
+Grosseto
+Gstaad
+Guimaraes
+
+Haarlem
+Halle
+Hamburg
+Hannover
+Hasselt
+Hastings
+Heidelberg
+Heilbronn
+Heiligenblut
+Helsinki
+Heraklion
+Herceg Novi
+Hereford
+Hinterglemm
+Hinterstoder
+Hintertux
+Hochkonig
+Honfleur
+Horsens
+Hvar
+Hyeres
+
+Ibiza Town
+Imola
+Imperia
+Inca
+Ingolstadt
+Innsbruck
+Interlaken
+Inverness
+Ioannina
+Ischgl
+Isernia
+Istanbul
+Izmir
+Izola
+
+Jena
+Jerez de la Frontera
+Juan-les-Pins
+Jungfrau
+Jurmala
+
+Kalamata
+Kappl
+Kaprun
+Karlovy Vary
+Karlsruhe
+Kassel
+Kastoria
+Katschberg
+Kaunas
+Kavala
+Kemer
+Kiel
+Kilkenny
+Kingston upon Hull
+Kitzbuhel
+Klagenfurt
+Klaipeda
+Koblenz
+Kolding
+Komotini
+Koper
+Kos
+Kosice
+Kotor
+Krakow
+Krefeld
+Kreischberg
+Kusadasi
+Kutna Hora
+Kyrenia
+
+La Ciotat
+La Clusaz
+La Laguna
+La Maddalena
+La Manga
+La Plagne
+La Rochelle
+La Spezia
+La Thuile
+Laax
+Lachtal
+Lagos
+Lamezia Terme
+Lancaster
+L'Aquila
+Larnaca
+Las Palmas
+Latina
+Lausanne
+Le Havre
+Le Lavandou
+Le Mans
+Lecce
+Lecco
+Lech
+Leeds
+Legnano
+Leicester
+Leiden
+Leipzig
+Leogang
+Les Arcs
+Les Deux Alpes
+Les Gets
+Les Houches
+Les Menuires
+Leuven
+Liberec
+Lichfield
+Liege
+Lienz
+Liepaja
+Lille
+Limassol
+Limerick
+Limoges
+Lincoln
+Lindos
+Linz
+Lisbon
+Lisburn
+Liverpool
+Livigno
+Livorno
+Ljubljana
+Lloret de Mar
+Loano
+Locarno
+Lodi
+Lodz
+Logrono
+London
+Los Cristianos
+Lourdes
+Loutraki
+Louvain-la-Neuve
+Lubeck
+Lublin
+Lucca
+Lucerne
+Lugano
+Lund
+Lungau
+Lyon
+
+Maastricht
+Macerata
+Madonna di Campiglio
+Madrid
+Magaluf
+Magdeburg
+Mahon
+Mainz
+Makarska
+Malaga
+Malia
+Malmo
+Manacor
+Manchester
+Mannheim
+Manosque
+Mantua
+Marbella
+Maria Alm
+Maribor
+Marmaris
+Marsala
+Marseille
+Martigues
+Maspalomas
+Massa
+Matera
+Mayrhofen
+Mazara del Vallo
+Mechelen
+Megeve
+Menton
+Merano
+Meribel
+Merida
+Messina
+Mestre
+Metz
+Middelburg
+Mijas
+Milan
+Millau
+Modena
+Modica
+Moena
+Mons
+Montafon
+Monte Rosa
+Montepulciano
+Montpellier
+Montreux
+Monza
+Moraira
+Morzine
+Moscow
+Mulhouse
+Munich
+Munster
+Murcia
+Murter
+Mykonos
+Mytilene
+
+Nafplio
+Namur
+Nancy
+Nantes
+Naples
+Narbonne
+Narva
+Nassfeld
+Naxos
+Nerja
+Nevers
+Newcastle
+Newport
+Newry
+Nice
+Nicosia
+Nijmegen
+Nimes
+Niort
+Norwich
+Nottingham
+Novara
+Novigrad
+Nuoro
+Nurnberg
+Nyon
+
+Obergurgl
+Oberhausen
+Obertauern
+Odense
+Oia
+Olbia
+Oldenburg
+Olomouc
+Opatija
+Oristano
+Orleans
+Ortisei
+Oslo
+Osnabruck
+Ostrava
+Oulu
+Oviedo
+Oxford
+Paderborn
+Padova
+Palanga
+Palavas-les-Flots
+Palermo
+Palma de Mallorca
+Palma Nova
+Pamplona
+Paphos
+Paralia
+Parikia
+Paris
+Parma
+Parnu
+Passo del Tonale
+Passo Rolle
+Patras
+Pau
+Pavia
+Peguera
+Perast
+Perpignan
+Perros-Guirec
+Perth (UK)
+Perugia
+Pesaro
+Pescara
+Pescasseroli
+Peterborough
+Petrovac
+Pforzheim
+Piacenza
+Piraeus
+Piran
+Pisa
+Pistoia
+Pitztal
+Playa Blanca
+Playa de las Americas
+Playa de Muro
+Plovdiv
+Plymouth
+Plzen
+Podgorica
+Poitiers
+Pollenca
+Pontevedra
+Pordenone
+Porec
+Portimao
+Porto
+Porto Cervo
+Porto Cristo
+Porto Torres
+Portocolom
+Portofino
+Portoroz
+Porto-Vecchio
+Portsmouth
+Positano
+Potenza
+Potsdam
+Poznan
+Pozzuoli
+Prague
+Praia da Rocha
+Prato
+Preston
+Propriano
+Protaras
+Puerto de la Cruz
+Puerto Rico de Gran Canaria
+Pula
+
+Quarteira
+Quimper
+
+Ragusa
+Randers
+Rapallo
+Ravello
+Ravenna
+Regensburg
+Reggio Calabria
+Reggio Emilia
+Reims
+Rennes
+Rethymno
+Reus
+Reutlingen
+Reykjavik
+Rhodes
+Rieti
+Riga
+Rijeka
+Rimini
+Riomaggiore
+Rodez
+Rome
+Roskilde
+Rostock
+Rotterdam
+Roubaix
+Rouen
+Rovigo
+Rovinj
+
+Sa Coma
+Saalbach
+Saarbrucken
+Saas-Fee
+Saint Petersburg
+Saint-Brieuc
+Sainte-Maxime
+Saint-Etienne
+Saint-Jean-Cap-Ferrat
+Saint-Malo
+Saint-Tropez
+Salamanca
+Salerno
+Salisbury
+Salou
+Salzburg
+San Sebastian
+Sanremo
+Sant Antoni de Portmany
+Santa Cruz de Tenerife
+Santa Eularia des Riu
+Santa Margherita Ligure
+Santa Pola
+Santa Ponsa
+Santander
+Santiago de Compostela
+Sassari
+Saumur
+Savona
+Schaffhausen
+Schladming
+Seefeld
+Segovia
+Semmering
+Serre Chevalier
+Sete
+Seville
+Sheffield
+Siauliai
+Sibenik
+Side
+Siegen
+Siena
+Sion
+Sitges
+Skiathos
+SkiWelt
+Sofia
+Solden
+Soll
+Soller
+Solothurn
+Sondrio
+Sopot
+Sorrento
+Southampton
+Split
+Sportgastein
+St Albans
+St. Anton
+St. Gallen
+St. Moritz
+Stavanger
+Stirling
+Stockholm
+Stoke-on-Trent
+Strasbourg
+Stubai
+Stuhleck
+Stuttgart
+Sunderland
+Sveti Stefan
+Swansea
+Syracuse
+Szczecin
+
+Tallinn
+Tampere
+Taormina
+Taranto
+Tarifa
+Tarragona
+Tartu
+Tauplitz
+Tavira
+Teramo
+Terni
+The Hague
+Thessaloniki
+Tignes
+Tilburg
+Tinos
+Tivat
+Tivoli
+Toledo
+Torre del Greco
+Torre del Mar
+Torremolinos
+Torrevieja
+Torun
+Tossa de Mar
+Toulon
+Toulouse
+Tours
+Trani
+Trapani
+Trento
+Treviso
+Trier
+Trieste
+Trogir
+Tromso
+Trondheim
+Trouville-sur-Mer
+Troyes
+Tui
+Turin
+Turku
+Turracher Hohe
+
+Udine
+Ulcinj
+Ulm
+Umag
+Uppsala
+Urbino
+Utrecht
+
+Val d'Isere
+Val di Fassa
+Val Gardena
+Val Thorens
+Valence
+Valencia
+Valladolid
+Valle Isarco
+Valletta
+Varazze
+Varese
+Varna
+Vejle
+Venice
+Ventimiglia
+Ventspils
+Verbania
+Verbier
+Vercelli
+Verona
+Versailles
+Vevey
+Viareggio
+Vibo Valentia
+Viborg
+Vicenza
+Vichy
+Vienna
+Vigo
+Vilamoura
+Villach
+Villefranche-sur-Mer
+Vilnius
+Viterbo
+Vitoria-Gasteiz
+Volos
+Vrsar
+
+Wakefield
+Warsaw
+Warth
+Waterford
+Wengen
+Westendorf
+Wiesbaden
+Winchester
+Winterthur
+Wolfsburg
+Wolverhampton
+Worcester
+Worthing
+Wroclaw
+Wuppertal
+Wurzburg
+
+
+York
+
+Zadar
+Zagreb
+Zakopane
+Zaragoza
+Zell am See
+Zell am Ziller
+Zermatt
+Zillertal
+Zug
+Zurich
+Zwolle
+
