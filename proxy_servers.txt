@@ -1,2 +1,4 @@
 72.212.63.101:4145 -s5
 174.75.211.222:4145 -s5
+
+PATH=C:\ProgramData\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Users\sebes\AppData\Local\Programs\Python\Python37\Scripts\;C:\Users\sebes\AppData\Local\Programs\Python\Python37\;C:\Users\sebes\AppData\Local\Programs\Python\Python38-32\Scripts\;C:\Users\sebes\AppData\Local\Programs\Python\Python38-32\;C:\Users\sebes\AppData\Local\Microsoft\WindowsApps;C:\Users\sebes\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\sebes\AppData\Local\GitHubDesktop\bin
